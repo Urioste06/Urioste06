@@ -1,6 +1,6 @@
 ### Luis Miguel Andújar 👋
 
-
+![foto](mi_imagen_git_hub.png)
 
 <!--
 **Urioste06/Urioste06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
