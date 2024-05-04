@@ -10,8 +10,8 @@
 
 ### Technologies
   ![Python](https://img.shields.io/badge/-Pytho-333333?style=flat&logo=python)
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![Typescript](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
+  ![HTML5](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
