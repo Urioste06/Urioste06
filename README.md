@@ -33,7 +33,7 @@
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=mauro069&show_icons=true)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mauro069&label=Profile%20views&color=0e75b6&style=flat" alt="mauro069" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=urioste06&label=Profile%20views&color=0e75b6&style=flat" alt="Urioste06" /> </p>
 
 
 <!--
