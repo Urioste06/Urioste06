@@ -27,7 +27,7 @@
   ![PowerPoint](https://img.shields.io/badge/-PowerPoint-C13D22?style=flat&logo=microsoft-powerpoint)
   ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
+  ![Folium](https://img.shields.io/badge/-Folium-333333?style=flat&logo=folium)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
 ### Contact Me
