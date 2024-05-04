@@ -12,7 +12,7 @@
   ![Python](https://img.shields.io/badge/-Pytho-333333?style=flat&logo=python)
   ![Typescript](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
   ![HTML5](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![CSS](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=CSS3&logoColor=numpy)
   ![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
