@@ -17,9 +17,9 @@
   ![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly)
   ![Excel](https://img.shields.io/badge/-Excel_Avanzado-217346?style=flat&logo=microsoft-excel)
   ![Word](https://img.shields.io/badge/-Word_Avanzado-2B509A?style=flat&logo=microsoft-word)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=joomla)
+  ![Joomla](https://img.shields.io/badge/-Joomla-333333?style=flat&logo=joomla)
   <br/>
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Powerbi](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
