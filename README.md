@@ -10,13 +10,13 @@
 
 ### Technologies
   ![Python](https://img.shields.io/badge/-Pytho-333333?style=flat&logo=python)
-  ![Typescript](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
-  ![HTML5](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-  ![CSS](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
+  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+  ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
   ![SCSS](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-  ![Angular](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly)
-  ![React](https://img.shields.io/badge/-Excel Avanzado-217346?style=flat&logo=microsoft-excel)
-  ![Redux](https://img.shields.io/badge/-Word Avanzado-333333?style=flat&logo=microsoft-word)
+  ![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly)
+  ![React](https://img.shields.io/badge/-Excel_Avanzado-217346?style=flat&logo=microsoft-excel)
+  ![Redux](https://img.shields.io/badge/-Word_Avanzado-333333?style=flat&logo=microsoft-word)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
   <br/>
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
