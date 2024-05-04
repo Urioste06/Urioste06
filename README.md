@@ -9,18 +9,21 @@
 - Me gusta trabajar con grupos tanto pequeños como grades dando a conocer mi conocimiento a los demás.
 
 ### Technologies
-  ![Python](https://img.shields.io/badge/-Pytho-333333?style=flat&logo=python)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Github](https://img.shields.io/badge/-Git_Hub-333333?style=flat&logo=github)
   ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
   ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![Plotly](https://img.shields.io/badge/-Plotly-333333?style=flat&logo=plotly)
-  ![Excel](https://img.shields.io/badge/-Excel_Avanzado-217346?style=flat&logo=microsoft-excel)
-  ![Word](https://img.shields.io/badge/-Word_Avanzado-2B509A?style=flat&logo=microsoft-word)
+  ![Powerbi](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
+  ![VSCode](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visualstudiocode)
+  <br/>
   ![Joomla](https://img.shields.io/badge/-Joomla-333333?style=flat&logo=joomla)
   ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress)
-  <br/>
-  ![Powerbi](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
+  ![Excel](https://img.shields.io/badge/-Excel_Avanzado-217346?style=flat&logo=microsoft-excel)
+  ![Word](https://img.shields.io/badge/-Word_Avanzado-2B509A?style=flat&logo=microsoft-word)
+  ![PowerPoint](https://img.shields.io/badge/-PowerPoint-C13D22?style=flat&logo=microsoft-powerpoint)
   ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
