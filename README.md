@@ -14,7 +14,7 @@
   ![HTML5](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
   ![CSS](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=numpy)
   ![SCSS](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=matplotly)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=plotly)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
