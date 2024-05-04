@@ -31,7 +31,7 @@
 <!--<a href="https://www.tiktok.com/@devmauro_"><img alt="Tiktok" src="https://img.shields.io/badge/Dev Mauro-blue?style=flat-square&logo=tiktok"></a>  -->
 <a href="accesibilidadconluismi9@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-accesibilidadconluismi@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=mauro069&show_icons=true)
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Urioste06&show_icons=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urioste06&label=Profile%20views&color=0e75b6&style=flat" alt="Urioste06" /> </p>
 
