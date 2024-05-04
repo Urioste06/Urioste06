@@ -3,7 +3,7 @@
 ## Luis Miguel Andújar 👋
 
 ### About Me
-- Tengo 53 años y soy de Sopela, Bizkaia, España.
+- Tengo 53 años y soy de Sopela, Bizkaia, España. ![imagen|10](bande_spain.png)
 - Llevo muchos años de profesor de nuevas tecnologías tanto a particulares como a empresas.
 - Soy una persona autodidacta y altamente creativa que busca aprender y mejorar día a día.
 - Me gusta trabajar con grupos tanto pequeños como grades dando a conocer mi conocimiento a los demás.
