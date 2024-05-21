@@ -1,4 +1,4 @@
-![foto](logo_accesibilidad_con_luismi.png)
+![foto](Banner_Github_accesibilidad_con_luismi.png)
 
 ## Luis Miguel Andújar 👋
 
