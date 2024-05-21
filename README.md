@@ -36,7 +36,26 @@
 <!--<a href="https://www.tiktok.com/@devmauro_"><img alt="Tiktok" src="https://img.shields.io/badge/Dev Mauro-blue?style=flat-square&logo=tiktok"></a>  -->
 <a href="accesibilidadconluismi9@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-accesibilidadconluismi@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Urioste06&show_icons=true)
+-----
+
+<br>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Urioste06/">
+  <img src="https://github-readme-stats.vercel.app/api?username=Urioste06&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Urioste06&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="Urioste06"/>
+
+</a>
+</div>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=urioste06&label=Profile%20views&color=0e75b6&style=flat" alt="Urioste06" /> </p>
+
+<!-- ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=Urioste06&show_icons=true)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urioste06&label=Profile%20views&color=0e75b6&style=flat" alt="Urioste06" /> </p>
 
