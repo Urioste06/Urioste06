@@ -29,6 +29,7 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![Folium](https://img.shields.io/badge/-Folium-333333?style=flat&logo=folium)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+  ![Snowflake](https://img.shields.io/badge/-SnowFlake-333333?style=flat&logo=snowflake)
 
 ### Contact Me
 <a href="https://www.linkedin.com/in/luismi-andujar"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Luismi-blue?style=flat-square&logo=linkedin"></a>
